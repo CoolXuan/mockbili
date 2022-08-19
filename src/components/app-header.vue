@@ -16,16 +16,6 @@
     <div class="down-app">下载 APP</div>
   </header>
 </template>
-<script>
-import { ref } from "vue";
-
-export default {
-  setup() {
-    const activeName = ref("a");
-    return { activeName };
-  },
-};
-</script>
 <style lang="less" scoped>
 .app-header {
   display: flex;

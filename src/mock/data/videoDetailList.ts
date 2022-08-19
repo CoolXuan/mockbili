@@ -1,10 +1,11 @@
 export default [
   {
     id: "0",
-    videoSrc: "http://sites.zbztb.cn/medias/2018120195458.mp4",
+    videoSrc:
+      "https://f.video.weibocdn.com/o0/nGg7GdLLlx07YxarObYI01041201JxnJ0E010.mp4?label=mp4_1080p&template=1920x1080.25.0&media_id=4804150828138518&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=4&ot=h&ps=3lckmu&uid=3ZoTIp&ab=,8143-g0,8013-g0,7598-g0&Expires=1660893552&ssig=tIdAiG6Gth&KID=unistore,video",
     poster:
       "https://i0.hdslb.com/bfs/archive/0563c3df12637178e8b08858e5fd11e4a6906acc.jpg@320w_200h.webp",
-    videoTitle: "世界上广告最多的网站判定！真的有10000条广告！【暗物质#2】",
+    videoTitle: "初舞台合作舞台之《一生何求》",
     author: "牧草君1",
     authorIconSrc:
       "https:////i1.hdslb.com/bfs/face/bb856d0bed8ef8abc0544fd5bd86da4cedf62a04.jpg@60w_60h_1c.png",
@@ -16,10 +17,11 @@ export default [
   },
   {
     id: "1",
-    videoSrc: "http://sites.zbztb.cn/medias/20181219211856.mp4",
+    videoSrc:
+      "https://f.video.weibocdn.com/o0/jVMHbx1Dlx07YxiprZcA010412072qNT0E030.mp4?label=mp4_1080p&template=1920x1080.25.0&media_id=4804153864814600&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=3&ot=h&ps=3lckmu&uid=3ZoTIp&ab=,8143-g0,8013-g0,7598-g0&Expires=1660893691&ssig=WKmfNBPPq%2F&KID=unistore,video",
     poster:
       "https://i0.hdslb.com/bfs/archive/b08463bc1257b6294bad1e1646a3203f9f3a0c60.jpg@320w_200h.webp",
-    videoTitle: "【圣地亚哥金曲】藏，超好听的中国风电音鬼畜！",
+    videoTitle: "进山三天，露营帐篷治不好我的精神内耗",
     author: "牧草君2",
     authorIconSrc:
       "https://i0.hdslb.com/bfs/face/54923922eea6532c2dff95e45743b6a1203c0230.jpg@60w_60h.webp",
